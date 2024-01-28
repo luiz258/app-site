@@ -33,7 +33,7 @@ export function MainComponent() {
               </div>
               <div className="">
                 <Image
-                  className="rounded-full rounded-md bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500"
+                  className="rounded-full bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500"
                   src="/images/author.png"
                   width={360}
                   height={360}
