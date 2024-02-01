@@ -8,15 +8,12 @@ const navigation = [
 ]
 export function HeaderComponent() {
   return (
-    <header className=" ">
-      <div className="flex justify-around justify-items-center  w-full px-6">
-
-
-
+    <header className="absolute">
+      <div className="flex justify-around justify-items-center px-6">
           <div className="flex w-14 h-14">
             <span>Logo</span>
           </div>
-            <ul className="flex justify-around ont__dmSans font__color-gray h-auto gap-4">
+            <ul className="flex justify-around font__dmSans font__color-gray h-auto gap-4">
               <li>
                 <a href="#">Home </a>
               </li>
@@ -27,7 +24,7 @@ export function HeaderComponent() {
                 <a href="#">Tech Stack</a>
               </li>
               <li>
-                <a href="#">Projects</a>  Contact
+                <a href="#">Projects</a>
               </li>
               <li>
                 <a href="#">Contact</a>

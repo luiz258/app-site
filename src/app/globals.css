@@ -82,3 +82,8 @@ header {
   border-image: linear-gradient(to right,#7565d2,#1babf3) 1;
   /* border-style:-webkit-linear-gradient( #7565d2,#1babf3); */
 }
+
+.border-gradient{
+  background: linear-gradient(to right,#1babf3, #7565d2, #e710aa);
+  padding: 8px;
+}

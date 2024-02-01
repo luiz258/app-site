@@ -30,8 +30,6 @@ export default function RootLayout({
         </style>
       </head>
       <body className={inter.className}>{children}
-      <HeaderComponent/>
-      <MainComponent />
       </body>  
     </html>
   );
