@@ -34,7 +34,7 @@ export function AboutComponent() {
                             Formacação acadêmica
                         </h5>
                         <div className="justify-items-center w-full divide-y-2">
-                            <ExeperienceListComponent office="Desenvedor Junir" modelHiring="Araguaína-TO" nameJob="UNITPAC – Centro Universitário ITPAC" period="2015–2018"  typeHiring="off" />
+                            <ExeperienceListComponent office="Bacharel em Sistemas de Informação" modelHiring="Araguaína-TO" nameJob="UNITPAC – Centro Universitário ITPAC" period="2015–2018"  typeHiring="off" />
  
                         </div>
                     </div>
