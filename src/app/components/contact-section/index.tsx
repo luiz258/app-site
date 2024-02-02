@@ -16,7 +16,7 @@ import Git from "@/../public/svg/logo-git.svg"
 export function ContactComponent() {
 
     return (
-        <div className="flex justify-around justify-items-center w-full max-h-max lg:p-56 sm:pt-18 sm:pb-12 sm:mb-10 md:pt-18">
+        <div id="contato" className="flex justify-around justify-items-center w-full max-h-max lg:p-56 sm:pt-18 sm:pb-12 sm:mb-10 md:pt-18">
             <div className="relative isolate px-6 pt-16 lg:px-8 xs:pb-10">
 
                 <div className="mx-auto max-w-1x1 xs:flex-col justify-around">

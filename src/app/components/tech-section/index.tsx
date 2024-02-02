@@ -16,7 +16,7 @@ import Git from "@/../public/svg/logo-git.svg"
 export function TechComponent() {
     const sizeSvg = 110;
     return (
-        <div className="flex justify-around justify-items-center w-full max-h-max lg:p-56 sm:pt-18 sm:mb-10 md:pt-18">
+        <div id="tecnologias" className="flex justify-around justify-items-center w-full max-h-max lg:p-56 sm:pt-18 sm:mb-10 md:pt-18">
             <div className="relative isolate px-6 pt-16 lg:px-8 xs:pb-10">
 
                 <div className="mx-auto max-w-1x1 xs:flex-col justify-around">
@@ -32,7 +32,7 @@ export function TechComponent() {
                     <div className="max-w-1xl">
                         <div className="grid grid-cols-6 gap-10 ">
 
-                            <div className="">
+                            <div>
                                 <Image
                                     src={GitHub}
                                     width={sizeSvg}
@@ -42,7 +42,7 @@ export function TechComponent() {
 
                             </div>
 
-                            <div className="">
+                            <div>
                                 <Image
                                     src={Html}
                                     width={sizeSvg}
@@ -51,7 +51,7 @@ export function TechComponent() {
                                 />
                             </div>
 
-                            <div className="">
+                            <div>
                                 <Image
                                     src={Angular}
                                     width={sizeSvg}
@@ -60,7 +60,7 @@ export function TechComponent() {
                                 />
                             </div>
 
-                            <div className="">
+                            <div>
                                 <Image
                                     src={DotNet}
                                     width={sizeSvg}
@@ -69,7 +69,7 @@ export function TechComponent() {
                                 />
                             </div>
 
-                            <div className="">
+                            <div>
                                 <Image
                                     src={Css}
                                     width={sizeSvg}
@@ -78,7 +78,7 @@ export function TechComponent() {
                                 />
                             </div>
 
-                            <div className="">
+                            <div>
                                 <Image
                                     src={Js}
                                     width={sizeSvg}
@@ -87,7 +87,7 @@ export function TechComponent() {
                                 />
                             </div>
 
-                            <div className="">
+                            <div>
                                 <Image
                                     src={Git}
                                     width={sizeSvg}
@@ -96,7 +96,7 @@ export function TechComponent() {
                                 />
                             </div>
 
-                            <div className="">
+                            <div>
                                 <Image
                                     src={Tailwind}
                                     width={sizeSvg}
@@ -105,7 +105,7 @@ export function TechComponent() {
                                 />
                             </div>
 
-                            <div className="">
+                            <div>
                                 <Image
                                     src={Bootstrap}
                                     width={sizeSvg}
@@ -114,7 +114,7 @@ export function TechComponent() {
                                 />
                             </div>
 
-                            <div className="">
+                            <div>
                                 <Image
                                     src={Sass}
                                     width={sizeSvg}
@@ -123,7 +123,7 @@ export function TechComponent() {
                                 />
                             </div>
 
-                            <div className="">
+                            <div>
                                 <Image
                                     src={SqlServe}
                                     width={sizeSvg}
@@ -132,7 +132,7 @@ export function TechComponent() {
                                 />
                             </div>
 
-                            <div className="">
+                            <div>
                                 <Image
                                     src={Vscode}
                                     width={sizeSvg}

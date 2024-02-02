@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export function MainComponent() {
   return (
-    <div className="flex justify-around justify-items-center w-full px-6 lg:pt-56 xs:pt-8 md:pt-32 max-h-max">
+    <div id="inicio" className="flex justify-around justify-items-center w-full px-6 lg:pt-56 xs:pt-8 md:pt-32 max-h-max">
       <div className="relative isolate px-6 pt-14 lg:px-8 ">
 
         <div className="mx-auto max-w-1x1 xs:flex-col xs:px-40 sm:px-40 lg:px-48 justify-around">
@@ -37,7 +37,6 @@ export function MainComponent() {
             </div>
           </div>
         </div>
-
       </div>
     </div>
   );

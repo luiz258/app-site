@@ -3,7 +3,7 @@ import { ExeperienceListComponent } from "../list-experience";
 export function AboutComponent() {
     const sizeSvg = 120;
     return (
-        <div className="flex justify-items-center w-full lg:p-18 sm:pt-8 md:pt-10 xs:pt-8">
+        <div id="sobre" className="flex justify-items-center w-full lg:p-18 sm:pt-8 md:pt-10 xs:pt-8">
             <div className="relative isolate container">
 
                 <div className="mx-auto max-w-2xl xs:flex-col p-2 grid ">
