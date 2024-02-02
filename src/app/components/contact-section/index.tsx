@@ -22,7 +22,7 @@ export function ContactComponent() {
                 <div className="mx-auto max-w-1x1 xs:flex-col justify-around">
                     <div>
                         <h2 className="font-bold font__color-purple font__dmSans sm:text-4xl  lg:text-5xl text-center">
-                            Para qualquer dúvida envie-nos um email:
+                            Para qualquer dúvida envie um email:
                         </h2>
                         <h3 className="font-bold font__dmSans font__color-gradient text-center p-8 sm:text-3xl lg:text-4xl">
                             luizmarcelo258@gmail.com

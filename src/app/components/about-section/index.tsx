@@ -13,8 +13,8 @@ export function AboutComponent() {
                         </h4>
                         <h3 className="font__dmSans font__color-gray text-left mt-9 mb-6">
                         Ao longo de três anos de experiência, atuei como desenvolvedor web, 
-                        dedicando-me a projetos envolvendo Web Applications, Single Page Applications (SPA) e ProgressiveWeb Apps (PWA), 
-                        utilizando predominantemente o framework Angular. Embora eu tenha habilidades de BackEnd com .NET, minha verdadeira expertise e paixão está no Web FrontEnd, 
+                        dedicando-me a projetos envolvendo Web, Single Page Applications (SPA) e progressive web app(PWA), 
+                        utilizando predominantemente o framework Angular. Embora eu tenha habilidades de back-end com .NET, minha verdadeira expertise e paixão está no web front-end, 
                         que sempre foi minha preferência.
                         </h3>
                     </div>
