@@ -31,14 +31,14 @@ export function HeaderComponent() {
               </li>
 
               <li>
-                <a href="https://github.com/luiz258?tab=repositories">
+                <a href="https://github.com/luiz258?tab=repositories" target="_blank">
                   <Image src={LogoGithub}
                    width={25}
                    height={25}
                    alt="logo" /></a>
               </li>
               <li>
-                <a href="https://www.linkedin.com/in/lmsb-dev-732235120/">
+                <a href="https://www.linkedin.com/in/lmsb-dev-732235120/" target="_blank">
                   <Image src={LogoLinkdin}
                    width={28}
                    height={28}
