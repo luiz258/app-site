@@ -6,7 +6,7 @@ import LogoLinkdin from "@/../public/svg/logo_linkdin.svg"
 export function HeaderComponent() {
   return (
     <header className="absolute" id="#inicio">
-      <div className="flex justify-around justify-items-center px-6">
+      <div className="flex justify-around justify-items-center">
           <div className="flex w-14 h-14">
             <div className="h-auto">
               <Image src={Logo}

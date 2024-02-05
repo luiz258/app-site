@@ -2,13 +2,13 @@ import Image from "next/image";
 
 export function MainComponent() {
   return (
-    <div id="inicio" className="flex justify-around justify-items-center w-full px-6 lg:pt-56 xs:pt-8 md:pt-32 max-h-max">
-      <div className="relative isolate px-6 pt-14 lg:px-8 ">
+    <div id="inicio" className="flex justify-around justify-items-center w-full px-6 lg:pt-56 xs:pt-8 md:pt-32 max-h-max ">
+      <div className="relative isolate justify-items-center">
 
-        <div className="mx-auto max-w-1x1 xs:flex-col xs:px-40 sm:px-40 lg:px-48 justify-around">
-          <div className="grid grid-rows-1 grid-flow-col gap-12">
+        <div className="mx-auto max-w-1x1 xs:flex-col xs:px-40 sm:px-40 lg:px-48 justify-around  animate__animated animate__backInDown">
+          <div className="grid grid-rows-1 grid-flow-col gap-12 ">
             <div className="md:max-w-3xl max-w-5xl font__poppins">
-              <h1 className="font-semibold font__color-purple  md:text-4xl lg:text-6xl">
+              <h1 className="font-semibold font__color-purple  md:text-4xl lg:text-6xl ">
                 Olá 👋,
               </h1>
               <h1 className="font-semibold font__color-purple md:text-4xl lg:text-6xl">
